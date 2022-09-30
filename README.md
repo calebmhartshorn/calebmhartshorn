@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Caleb!
+
+I'm studying computer science at Bath Spa University.
+
+You can most easily reach at calebmhartshorn@gmail.com
+
 
 <!--
 **calebmhartshorn/calebmhartshorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
