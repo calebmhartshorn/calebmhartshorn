@@ -1,6 +1,6 @@
 ### Hello, I'm Caleb!
 
-I'm studying computer science at Bath Spa University.
+I'm studying computing at Bath Spa University.
 
 You can most easily reach at calebmhartshorn@gmail.com
 
